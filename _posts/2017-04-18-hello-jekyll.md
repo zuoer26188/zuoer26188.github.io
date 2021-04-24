@@ -1,26 +1,23 @@
 ---
 layout: post
-title: 'Hello Jekyll'
-date: 2017-04-18
-author: Jekyll
+title: '第一篇博客'
+date: 2021-4-24
+author: zuoer
 cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-banner.png'
-tags: jekyll
+tags: zuoer
 ---
 
-> Transform your plain text into static websites and blogs.
+> zuoer's first blog.
 
-### Welcome
+### 欢迎.
 
-This site aims to be a comprehensive guide to Jekyll. We’ll cover topics such as getting your site up and running, creating and managing your content, customizing the way your site works and looks, deploying to various environments, and give you some advice on participating in the future development of Jekyll itself.
+欢迎来到左耳的博客
 
-### So what is Jekyll, exactly?Permalink
+### 为什么要写博客.
 
-Jekyll is a simple, blog-aware, static site generator. It takes a template directory containing raw text files in various formats, runs it through a converter (like [Markdown](https://daringfireball.net/projects/markdown/)) and our [Liquid](https://github.com/Shopify/liquid/wiki) renderer, and spits out a complete, ready-to-publish static website suitable for serving with your favorite web server. Jekyll also happens to be the engine behind GitHub Pages, which means you can use Jekyll to host your project’s page, blog, or website from GitHub’s servers for free.
+写博客是为了将自己学习的足迹记录下来，包括各种问题的解决方法，以便日后复习使用
 
-### Helpful HintsPermalink
+### 博客内容有什么.
 
-Throughout this guide there are a number of small-but-handy pieces of information that can make using Jekyll easier, more interesting, and less hazardous. Here’s what to look out for.
+CTF的解题思路，靶场的解题思路和写程序设计的思路
 
-### Video Test
-
-<iframe type="text/html" width="100%" height="385" src="http://www.youtube.com/embed/gfmjMWjn-Xg" frameborder="0"></iframe>
