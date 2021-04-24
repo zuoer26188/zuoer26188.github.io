@@ -7,12 +7,12 @@ categories: 技术
 cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-theme-h2o-postcover.jpg'
 tags: pikaqu
 ---
-##第一步
+## 第一步
 [下载pikaqu靶场](https://github.com/zhuifengshaonianhanlu/pikuchu)
-##第二步
-###解压
+## 第二步
+### 解压
 然后放到PHPstudy里面的WWW文件夹里并命名为pikaqiu
-##第三步
+## 第三步
 修改配置文件
 ![](https://github.com/zuoer26188/zuoer26188.github.io/blob/main/assets/img/pkq1.png)
 ```F:\baji\baji\WWW\pkq\inc\config.inc.php```
@@ -34,7 +34,7 @@ define('DBPORT', '3306');
 
 ?>
 ```
-##第四步
+## 第四步
 在网址输入127.0.0.1/pikaqiu
-##最后
+## 最后
 安装流程激活
