@@ -1,0 +1,40 @@
+---
+layout: post
+title: 'pikaqu'
+subtitle: 'pikaqu靶机的安装'
+date: 2021-4-23
+categories: 技术
+cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-theme-h2o-postcover.jpg'
+tags: pikaqu
+---
+##第一步
+[下载pikaqu靶场](https://github.com/zhuifengshaonianhanlu/pikuchu)
+##第二步
+###解压
+然后放到PHPstudy里面的WWW文件夹里并命名为pikaqiu
+##第三步
+修改配置文件
+![](https://github.com/zuoer26188/zuoer26188.github.io/blob/main/assets/img/pkq1.png)
+```F:\baji\baji\WWW\pkq\inc\config.inc.php```
+如下
+```
+<?php
+//全局session_start
+session_start();
+//全局居设置时区
+date_default_timezone_set('Asia/Shanghai');
+//全局设置默认字符
+header('Content-type:text/html;charset=utf-8');
+//定义数据库连接参数
+define('DBHOST', '127.0.0.1');
+define('DBUSER', 'root');//数据库的账户名默认root
+define('DBPW', 'root');//数据库的密码 默认填root
+define('DBNAME', 'pikachu');
+define('DBPORT', '3306');
+
+?>
+```
+##第四步
+在网址输入127.0.0.1/pikaqiu
+##最后
+安装流程激活
