@@ -57,8 +57,7 @@ postPatterns: 'circuitBoard'
 # url: email, weibo, zhihu, twitter, instagram, juejin, github, douban, facebook, dribble, uicn, jianshu, medium, linkedin
 sns:
   weibo: '//weibo.com/6520473321/profile?rightmod=1&wvr=6&mod=personinfo'
-  juejin: '//juejin.im/user/57a6f434165abd006159b4cc'
-  instagram: '//www.instagram.com/'
+  zhihu: 'https://www.zhihu.com/people/zuo-er-de-qi-dai'
   github: '//github.com/zuoer26188'
 
 # Tags 设置标签
