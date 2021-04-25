@@ -79,7 +79,7 @@ kramdown:
 RSS: false
 
 # Permalink
-# See: https://github.com/kaeyleo/jekyll-theme-H2O/issues/35
+# See: https://github.com/zuoer26188/zuoer26188.github.io/tree/main/_posts
 permalink: /:year/:month/:day/:title.html
 
 # Plugins
