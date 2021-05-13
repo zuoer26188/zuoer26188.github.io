@@ -3,7 +3,7 @@ layout: post
 title: '第一篇博客'
 date: 2021-4-24
 author: zuoer
-cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-banner.png'
+cover: 'https://www.hualigs.cn/image/609d166ee131a.jpg'
 tags: zuoer
 ---
 
